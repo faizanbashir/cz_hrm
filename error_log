@@ -1,0 +1,5 @@
+[26-May-2016 16:56:46 Asia/Kolkata] PHP Fatal error:  Call to a member function get_leads() on a non-object in /home/softwareinsights/public_html/hrms/application/modules/settings/views/company-profile.php on line 61
+[26-May-2016 16:57:05 Asia/Kolkata] PHP Fatal error:  Call to a member function get_leads() on a non-object in /home/softwareinsights/public_html/hrms/application/modules/settings/views/company-profile.php on line 61
+[26-May-2016 17:05:45 Asia/Kolkata] PHP Fatal error:  Call to a member function get_leads() on a non-object in /home/softwareinsights/public_html/hrms/application/modules/settings/views/company-profile.php on line 61
+[26-May-2016 17:06:04 Asia/Kolkata] PHP Fatal error:  Call to a member function get_leads() on a non-object in /home/softwareinsights/public_html/hrms/application/modules/settings/views/company-profile.php on line 61
+[26-May-2016 17:06:47 Asia/Kolkata] PHP Fatal error:  Call to a member function get_leads() on a non-object in /home/softwareinsights/public_html/hrms/application/modules/settings/views/company-profile.php on line 61
